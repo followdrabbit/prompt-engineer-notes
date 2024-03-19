@@ -16,3 +16,15 @@ Here are some excellent repositories that you can explore to deepen your knowled
 
 These resources are great starting points for anyone looking to enhance their skills in prompt engineering and discover the diverse applications of AI-powered text generation.
 
+
+## About the Author
+
+**Raphael de Carvalho Florencio**
+- Position: Information Security Architect
+- LinkedIn: [raphaelflorencio](https://linkedin.com/in/raphaelflorencio)
+
+In pursuit of continuous professional growth, Raphael is currently dedicated to studying Artificial Intelligence to enhance the revision and development of security processes and systems, aiming for efficiency on par with development areas. He is driven by research, development, and fostering cultural change, with the goal of contributing to technological advancement in information security.
+
+## Contact
+
+To learn more or to get in touch with Raphael, please visit his LinkedIn profile.
