@@ -2,8 +2,8 @@
 
 Choose your preferred language / Escolha o seu idioma preferido:
 
-- [English (EN)](README.md)
-- [Português (BR)](README_PT-BR.md)
+- [English (EN-US)](README.md)
+- [Português (PT-BR)](README_PT-BR.md)
 
 ## Sobre o Repositório
 
