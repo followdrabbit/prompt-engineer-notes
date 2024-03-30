@@ -1,4 +1,11 @@
-# About the Repository
+# Prompt-Engineer-Notes
+
+Choose your preferred language / Escolha o seu idioma preferido:
+
+- [English (EN)](README.md)
+- [Português (BR)](README_PT-BR.md)
+
+## About the Repository
 
 This repository has been created as a central hub for information, resources, and practical examples related to prompt engineering. The aim is to assist users, developers, and enthusiasts in enhancing their skills in crafting effective prompts for language models like ChatGPT.
 
