@@ -160,7 +160,7 @@ These resources are great starting points for anyone looking to enhance their sk
 - Position: Information Security Architect
 - LinkedIn: [raphaelflorencio](https://linkedin.com/in/raphaelflorencio)
 
-In pursuit of continuous professional growth, Raphael is currently dedicated to studying Artificial Intelligence to enhance the revision and development of security processes and systems, aiming for efficiency on par with development areas. He is driven by research, development, and fostering cultural change, with the goal of contributing to technological advancement in information security.
+I am passionate about challenges and always eager to learn new things. Currently, I am focusing on studying Artificial Intelligence, aiming not only to improve security processes and systems but also to seek efficiency and innovation in development areas. My interest in research and development motivates me to foster cultural changes, contributing to technological advancement in information security.
 
 ## Contact
 

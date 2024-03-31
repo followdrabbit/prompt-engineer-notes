@@ -137,7 +137,7 @@ Mais de 10 anos de experiência na indústria em um ou mais dos seguintes:
 - Cargo: Arquiteto de Segurança da Informação
 - LinkedIn: [raphaelflorencio](https://linkedin.com/in/raphaelflorencio)
 
-Em busca de crescimento profissional contínuo, Raphael atualmente se dedica a estudar Inteligência Artificial para aprimorar a revisão e o desenvolvimento de processos e sistemas de segurança, visando eficiência equivalente às áreas de desenvolvimento. Ele é movido por pesquisa, desenvolvimento e fomento à mudança cultural, com o objetivo de contribuir para o avanço tecnológico em segurança da informação.
+Sou apaixonado por desafios e sempre em busca de aprender coisas novas. Atualmente, estou focado em estudar Inteligência Artificial, visando não apenas melhorar os processos e sistemas de segurança, mas também buscar eficiência e inovação nas áreas de desenvolvimento. Meu interesse em pesquisa e desenvolvimento me motiva a fomentar mudanças culturais, contribuindo para o avanço tecnológico em segurança da informação.
 
 ## Contato
 
