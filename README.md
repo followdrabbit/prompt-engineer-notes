@@ -156,14 +156,42 @@ These resources are great starting points for anyone looking to enhance their sk
 
 ## Developing Codes
 
-Create a function that, based on the hash of a document, generates a unique 12-digit identification code separated by "-" that is reversible.
+> Create a function that, based on the hash of a document, generates a unique 12-digit identification code separated by "-" that is reversible.
+>
+> {RULES}
+>
+> - Language: Python
+> - It must be possible to perform the reverse logic to find the hash that generated the code
+> - Input: Name of the document from which the hash will be obtained
+> - Output: Unique 12-digit identification code separated by "-" and reversible
+> - Apply best programming practices, including but not limited to: Clean Code
 
-{RULES}
-> Language: Python
-> It must be possible to perform the reverse logic to find the hash that generated the code
-> Input: Name of the document from which the hash will be obtained
-> Output: Unique 12-digit identification code separated by "-" and reversible
-> Apply best programming practices, including but not limited to: Clean Code
+## Writing unit tests
+
+> Create unit tests for the function below following the rules defined in {RULES}
+
+```python
+def hash_to_code(document_name):
+    hasher = hashlib.sha256()
+    with open(document_name, 'rb') as file:
+    content = file.read()
+    hasher.update(content)
+    digest = hasher.digest()
+
+    num = int.from_bytes(digest[:6], 'big')
+    chars = '0123456789ABCDEF'
+    code = ''.join(chars[(num >> (4 * i)) & 0xF] for i in range(11, -1, -1))
+
+    formatted_code = '-'.join(code[i:i+4] for i in range(0, 12, 4))
+
+    return hasher.hexdigest(), formatted_code
+```
+>
+> {RULES}
+>
+> - Language: Python
+> - Use the mock.py library
+> - Create at least 3 unit tests
 
 ## About the Author
 

@@ -133,14 +133,42 @@ Mais de 10 anos de experiência na indústria em um ou mais dos seguintes:
 
 ## Desenvolvendo códigos
 
-Crie uma função que com base no hash de um documento, crie um código único de identificação de 12 dígitos separados por "-" que seja reversível.
+> Crie uma função que com base no hash de um documento, crie um código único de identificação de 12 dígitos separados >por "-" que seja reversível.
+>
+> {REGRAS}
+>
+> - Linguagem: Python
+> - Deve ser possível realizar a lógica inversa para encontrar o hash que originou o código
+> - input: Nome do documento de onde será obtido o hash
+> - Output: Código único de identificação de 12 dígitos separados por "-" e reversível.
+> - Aplique as melhores práticas de programação, como e não somente: Clean Code
 
-{REGRAS}
-> Linguagem: Python
-> Deve ser possível realizar a lógica inversa para encontrar o hash que originou o código
-> input: Nome do documento de onde será obtido o hash
-> Output: Código único de identificação de 12 dígitos separados por "-" e reversível.
-> Aplique as melhores práticas de programação, como e não somente: Clean Code
+## Escrevendo testes unitários
+
+> Crie testes unitários para a função abaixo seguindo as regras definidas em {REGRAS}
+
+```python
+def hash_to_code(document_name):
+    hasher = hashlib.sha256()
+    with open(document_name, 'rb') as file:
+    content = file.read()
+    hasher.update(content)
+    digest = hasher.digest()
+
+    num = int.from_bytes(digest[:6], 'big')
+    chars = '0123456789ABCDEF'
+    code = ''.join(chars[(num >> (4 * i)) & 0xF] for i in range(11, -1, -1))
+
+    formatted_code = '-'.join(code[i:i+4] for i in range(0, 12, 4))
+
+    return hasher.hexdigest(), formatted_code
+```
+>
+> {REGRAS}
+>
+> - Linguagem: Python
+> - Utilize a biblioteca mock.py
+> - Crie pelo menos 3 testes unitários
 
 ## Sobre o Autor
 
