@@ -154,6 +154,17 @@ These resources are great starting points for anyone looking to enhance their sk
 
 > Be a Machine Learning expert and create a "zero to hero" study schedule for Machine Learning over nine months, considering that I work and only have 4 days a week to study.
 
+## Developing Codes
+
+Create a function that, based on the hash of a document, generates a unique 12-digit identification code separated by "-" that is reversible.
+
+{RULES}
+> Language: Python
+> It must be possible to perform the reverse logic to find the hash that generated the code
+> Input: Name of the document from which the hash will be obtained
+> Output: Unique 12-digit identification code separated by "-" and reversible
+> Apply best programming practices, including but not limited to: Clean Code
+
 ## About the Author
 
 - **Raphael de Carvalho Florencio**

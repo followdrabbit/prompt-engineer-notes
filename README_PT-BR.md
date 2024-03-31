@@ -131,6 +131,17 @@ Mais de 10 anos de experiência na indústria em um ou mais dos seguintes:
 
 > Seja um especialista em Machine Learning e crie um cronograma de estudos de "zero a herói" em Machine Learning ao longo de nove meses, considerando que trabalho e só tenho 4 dias por semana para estudar.
 
+## Desenvolvendo códigos
+
+Crie uma função que com base no hash de um documento, crie um código único de identificação de 12 dígitos separados por "-" que seja reversível.
+
+{REGRAS}
+> Linguagem: Python
+> Deve ser possível realizar a lógica inversa para encontrar o hash que originou o código
+> input: Nome do documento de onde será obtido o hash
+> Output: Código único de identificação de 12 dígitos separados por "-" e reversível.
+> Aplique as melhores práticas de programação, como e não somente: Clean Code
+
 ## Sobre o Autor
 
 - **Raphael de Carvalho Florencio**
