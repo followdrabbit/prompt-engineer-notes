@@ -170,6 +170,34 @@ def hash_to_code(document_name):
 > - Utilize a biblioteca mock.py
 > - Crie pelo menos 3 testes unitários
 
+## Refatorando códigos
+
+> Seja um especialista em python e refatore o código abaixo utilizando conceitos de clean code e single responsability:
+
+```python
+def hash_to_code(document_name):
+    hasher = hashlib.sha256()
+    with open(document_name, 'rb') as file:
+    content = file.read()
+    hasher.update(content)
+    digest = hasher.digest()
+
+    num = int.from_bytes(digest[:6], 'big')
+    chars = '0123456789ABCDEF'
+    code = ''.join(chars[(num >> (4 * i)) & 0xF] for i in range(11, -1, -1))
+
+    formatted_code = '-'.join(code[i:i+4] for i in range(0, 12, 4))
+
+    return hasher.hexdigest(), formatted_code
+```
+
+{REGRAS}
+>
+> - Linguagem: Python
+> - Crie um código que sejá testável
+> - Implemente ao menos um teste
+> - Utiize o mock.py para realizar os testes
+
 ## Sobre o Autor
 
 - **Raphael de Carvalho Florencio**
