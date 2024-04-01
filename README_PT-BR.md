@@ -9,15 +9,16 @@ Choose your preferred language / Escolha o seu idioma preferido:
 
 Este repositório foi criado como um hub central para informações, recursos e exemplos práticos relacionados à engenharia de prompts. O objetivo é auxiliar usuários, desenvolvedores e entusiastas a aprimorar suas habilidades na criação de prompts eficazes para modelos de linguagem como o ChatGPT.
 
-## Links Úteis para Começar
+## Recursos Essenciais para Engenharia de Prompts e Modelos GPT
 
 Aqui estão alguns repositórios excelentes que você pode explorar para aprofundar seu conhecimento e compreensão sobre engenharia de prompts e encontrar uma ampla gama de exemplos de prompts:
 
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): Uma coleção de prompts criativos e eficazes para ChatGPT, mostrando vários casos de uso e técnicas de criação de prompts.
-- [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): Um repositório dedicado à arte e ciência da engenharia de prompts, oferecendo recursos, ferramentas e exemplos para dominar a criação de prompts.
-- [Awesome ChatGPT Prompts for Programmers](https://github.com/machinemindsai/awesome-chatgpt-prompts-for-programmers): Este repositório fornece prompts especificamente projetados para programadores, ajudando a aproveitar o ChatGPT em tarefas de codificação e desenvolvimento.
-- [OpenAI Cookbook](https://cookbook.openai.com/): Um recurso oficial da OpenAI, oferecendo uma coleção de receitas para uso eficaz de seus modelos de IA, incluindo ChatGPT. Este site inclui exemplos práticos, dicas e melhores práticas para engenharia de prompts.
-- [9 Frameworks to Master ChatGPT Prompt Engineering](https://www.linkedin.com/pulse/9-frameworks-master-chatgpt-prompt-engineering-edi-hezri-hairi/): Um artigo de Edi Hezri Hairi discutindo nove frameworks para dominar a arte da engenharia de prompts do ChatGPT para interações aprimoradas com IA.
+- [Awesome Open GPT](https://github.com/EwingYangs/awesome-open-gpt): Uma coleção de projetos de código aberto relacionados ao GPT, apresentando uma variedade de recursos e ferramentas para explorar e utilizar modelos GPT em diferentes contextos. Este repositório serve como um ponto de encontro para aqueles interessados em inovações e aplicações do GPT, oferecendo uma seleção cuidadosamente curada de projetos que destacam o potencial e a versatilidade dos modelos de linguagem generativa.
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): Este repositório inclui uma curadoria de prompts do ChatGPT para melhor utilização do modelo.
+- [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): Este repositório contém recursos cuidadosamente selecionados para Engenharia de Prompts, com foco em Transformer Generativo Pré-treinado (GPT), ChatGPT, PaLM, etc.
+- [Awesome ChatGPT Prompts for Programmers](https://github.com/machinemindsai/awesome-chatgpt-prompts-for-programmers): 🤖🧠 Prompts + treinamento para Programadores Modernos ☕️ Comece grátis: machineminds.substack.com
+- [OpenAI Cookbook](https://cookbook.openai.com/): Um recurso abrangente oferecido pela OpenAI, apresentando uma variedade de guias, tutoriais e exemplos práticos para trabalhar com modelos de linguagem, visão computacional, e mais, utilizando as APIs da OpenAI.
+- [9 Frameworks to Master ChatGPT Prompt Engineering](https://www.linkedin.com/pulse/9-frameworks-master-chatgpt-prompt-engineering-edi-hezri-hairi/): Não foi possível acessar o conteúdo deste link devido às restrições do arquivo robots.txt.
 
 Esses recursos são ótimos pontos de partida para quem deseja aprimorar suas habilidades em engenharia de prompts e descobrir as diversas aplicações da geração de texto assistida por IA.
 

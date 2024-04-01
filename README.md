@@ -9,15 +9,16 @@ Choose your preferred language / Escolha o seu idioma preferido:
 
 This repository has been created as a central hub for information, resources, and practical examples related to prompt engineering. The aim is to assist users, developers, and enthusiasts in enhancing their skills in crafting effective prompts for language models like ChatGPT.
 
-## Useful Links to start
+## Essential Resources for Prompt Engineering and GPT Models
 
 Here are some excellent repositories that you can explore to deepen your knowledge and understanding of prompt engineering and find a wide range of prompt examples:
 
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): A collection of creative and effective prompts for ChatGPT, showcasing various use cases and prompt crafting techniques.
-- [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): A repository dedicated to the art and science of prompt engineering, offering resources, tools, and examples to master prompt crafting.
-- [Awesome ChatGPT Prompts for Programmers](https://github.com/machinemindsai/awesome-chatgpt-prompts-for-programmers): This repository provides prompts specifically designed for programmers, helping to leverage ChatGPT in coding and development tasks.
-- [OpenAI Cookbook](https://cookbook.openai.com/): An official resource from OpenAI, offering a collection of recipes for effective use of their AI models, including ChatGPT. This site includes practical examples, tips, and best practices for prompt engineering.
-- [9 Frameworks to Master ChatGPT Prompt Engineering](https://www.linkedin.com/pulse/9-frameworks-master-chatgpt-prompt-engineering-edi-hezri-hairi/): An article by Edi Hezri Hairi discussing nine frameworks to master the craft of ChatGPT prompt engineering for enhanced AI interactions.
+- [Awesome Open GPT](https://github.com/EwingYangs/awesome-open-gpt): A collection of open-source projects related to GPT, featuring a variety of resources and tools for exploring and utilizing GPT models in different contexts. This repository serves as a meeting point for those interested in GPT innovations and applications, offering a carefully curated selection of projects that highlight the potential and versatility of generative language models.
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): This repository includes a curation of ChatGPT prompts for better utilization of the model.
+- [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): This repository contains carefully selected resources for Prompt Engineering, focusing on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM, etc.
+- [Awesome ChatGPT Prompts for Programmers](https://github.com/machinemindsai/awesome-chatgpt-prompts-for-programmers): 🤖🧠 Prompts + training for Modern Programmers ☕️ Start free: machineminds.substack.com
+- [OpenAI Cookbook](https://cookbook.openai.com/): A comprehensive resource offered by OpenAI, featuring a variety of guides, tutorials, and practical examples for working with language models, computer vision, and more, using OpenAI's APIs.
+- [9 Frameworks to Master ChatGPT Prompt Engineering](https://www.linkedin.com/pulse/9-frameworks-master-chatgpt-prompt-engineering-edi-hezri-hairi/): It was not possible to access the content of this link due to restrictions in the robots.txt file.
 
 These resources are great starting points for anyone looking to enhance their skills in prompt engineering and discover the diverse applications of AI-powered text generation.
 
