@@ -205,8 +205,8 @@ def hash_to_code(document_name):
 - Cargo: Arquiteto de Segurança da Informação
 - LinkedIn: [raphaelflorencio](https://linkedin.com/in/raphaelflorencio)
 
-Sou apaixonado por desafios e sempre em busca de aprender coisas novas. Atualmente, estou focado em estudar Inteligência Artificial, visando não apenas melhorar os processos e sistemas de segurança, mas também buscar eficiência e inovação nas áreas de desenvolvimento. Meu interesse em pesquisa e desenvolvimento me motiva a fomentar mudanças culturais, contribuindo para o avanço tecnológico em segurança da informação.
+Sou apaixonado por desafios e estou sempre em busca de aprender coisas novas. Atualmente, estou focado em estudar Inteligência Artificial, visando não apenas melhorar os processos e sistemas de segurança, mas também buscar eficiência e inovação nas áreas de desenvolvimento. Meu interesse em pesquisa e desenvolvimento me motiva a fomentar mudanças culturais, contribuindo para o avanço tecnológico em segurança da informação.
 
 ## Contato
 
-Para saber mais ou entrar em contato com Raphael, visite seu perfil no LinkedIn.
+Para saber mais ou entrar em contato comigo, visite meu perfil no LinkedIn.
