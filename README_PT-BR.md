@@ -136,34 +136,34 @@ Mais de 10 anos de experiência na indústria em um ou mais dos seguintes:
 
 ### Planejamento para estudo de multiplos assuntos
 
-Seja um especialista em planejamento de estudos e me ajude a planejar meus estudos utilizando o método pomodoro.
-
-Segue abaixo o que eu preciso estudar e sua prioridade:
-
-- Curso de GitHub da "Microsoft" - Alta
-- Certificação AWS Architect Professsional - Alta
-- Curso de I.A da "DSA" - Média
-- Estudo para projetos pessoais - Média
-- Curso de Inglês da "Perfect English - Baixa
-- Leitura de livros - Baixa
-
-{REGRAS}
-
-- Não ultrapassar mais de 4 horas de estudos por dia
-- Não colocar mais de 3 itens diferentes por dia
-- Não colocar atividades com duração inferior a 25 minutos
-- Eu preciso ler livros em todos os dias de estudo
-- Dividir o tempo de estudo de acordo com a prioridade
-- Prioridades mais altas tem maior tempo de estudo dedicado
-- Considerar apenas 5 dias de estudo por semana
-- Apresentar o resultado em tabela
-- Siga o padrão definido em {TEMPLATE}
-
-{TEMPLATE}
-
-| Dia     | Atividade 1 - Duração           | Sessões pomodoro da atividade 1 (inclui pausas)       | Atividade 2 - Duração        | Sessões pomodoro da atividade 2 (inclui pausas)                     | Atividade 3 - Duração  | Sessões pomodoro da atividade 3 (inclui pausas) |
-|---------|---------------------------------|-------------------------------------------------------|------------------------------|---------------------------------------------------------------|------------------------|-------------------------------------------------|
-| Segunda | Curso de Github (Microsoft) - 1h30min | 3 sessões de 25 min + 2 pausas de 5 min = 85 min      | Curso de I.A (DSA) - 1h15min | 2 sessões de 25 min + 1 pausa de 5 min + 1 pausa longa de 15 min = 70 min | Leitura de livros - 50 min | 2 sessões de 25 min + 1 pausa de 5 min = 55 min |
+> Seja um especialista em planejamento de estudos e me ajude a planejar meus estudos utilizando o método pomodoro.
+> 
+> Segue abaixo o que eu preciso estudar e sua prioridade:
+> 
+> - Curso de GitHub da "Microsoft" - Alta
+> - Certificação AWS Architect Professsional - Alta
+> - Curso de I.A da "DSA" - Média
+> - Estudo para projetos pessoais - Média
+> - Curso de Inglês da "Perfect English - Baixa
+> - Leitura de livros - Baixa
+> 
+> {REGRAS}
+> 
+> - Não ultrapassar mais de 4 horas de estudos por dia
+> - Não colocar mais de 3 itens diferentes por dia
+> - Não colocar atividades com duração inferior a 25 minutos
+> - Eu preciso ler livros em todos os dias de estudo
+> - Dividir o tempo de estudo de acordo com a prioridade
+> - Prioridades mais altas tem maior tempo de estudo dedicado
+> - Considerar apenas 5 dias de estudo por semana
+> - Apresentar o resultado em tabela
+> - Siga o padrão definido em {TEMPLATE}
+> 
+> {TEMPLATE}
+> 
+> | Dia     | Atividade 1 - Duração           | Sessões pomodoro da atividade 1 (inclui pausas)       | Atividade 2 - Duração        | Sessões pomodoro da atividade 2 (inclui pausas)                     | Atividade 3 - Duração  | Sessões pomodoro da atividade 3 (inclui pausas) |
+> |---------|---------------------------------|-------------------------------------------------------|------------------------------|---------------------------------------------------------------|------------------------|-------------------------------------------------|
+> | Segunda | Curso de Github (Microsoft) - 1h30min | 3 sessões de 25 min + 2 pausas de 5 min = 85 min      | Curso de I.A (DSA) - 1h15min | 2 sessões de 25 min + 1 pausa de 5 min + 1 pausa longa de 15 min = 70 min | Leitura de livros - 50 min | 2 sessões de 25 min + 1 pausa de 5 min = 55 min |
 
 ## Desenvolvendo códigos
 

@@ -159,34 +159,34 @@ These resources are great starting points for anyone looking to enhance their sk
 
 ### Planning for Multi-Subject Study
 
-Become a study planning expert and help me plan my studies using the pomodoro method.
-
-Below is what I need to study and its priority:
-
-- Microsoft's GitHub course - High
-- AWS Architect Professional certification - High
-- DSA's AI course - Medium
-- Study for personal projects - Medium
-- Perfect English's English course - Low
-- Reading books - Low
-
-{RULES}
-
-- Do not exceed more than 4 hours of study per day
-- Do not schedule more than 3 different items per day
-- Do not set activities with a duration of less than 25 minutes
-- I need to read books every study day
-- Divide study time according to priority
-- Higher priorities get more dedicated study time
-- Consider only 5 study days per week
-- Present the result in a table
-- Follow the pattern defined in {TEMPLATE}
-
-{TEMPLATE}
-
-| Day     | Activity 1 - Duration           | Pomodoro sessions for activity 1 (includes breaks)       | Activity 2 - Duration        | Pomodoro sessions for activity 2 (includes breaks)                     | Activity 3 - Duration  | Pomodoro sessions for activity 3 (includes breaks) |
-|---------|---------------------------------|-------------------------------------------------------|------------------------------|---------------------------------------------------------------|------------------------|-------------------------------------------------|
-| Monday  | GitHub course (Microsoft) - 1h30min | 3 sessions of 25 min + 2 breaks of 5 min = 85 min      | AI course (DSA) - 1h15min | 2 sessions of 25 min + 1 break of 5 min + 1 long break of 15 min = 70 min | Reading books - 50 min | 2 sessions of 25 min + 1 break of 5 min = 55 min |
+> Become a study planning expert and help me plan my studies using the pomodoro method.
+> 
+> Below is what I need to study and its priority:
+> 
+> - Microsoft's GitHub course - High
+> - AWS Architect Professional certification - High
+> - DSA's AI course - Medium
+> - Study for personal projects - Medium
+> - Perfect English's English course - Low
+> - Reading books - Low
+> 
+> {RULES}
+> 
+> - Do not exceed more than 4 hours of study per day
+> - Do not schedule more than 3 different items per day
+> - Do not set activities with a duration of less than 25 minutes
+> - I need to read books every study day
+> - Divide study time according to priority
+> - Higher priorities get more dedicated study time
+> - Consider only 5 study days per week
+> - Present the result in a table
+> - Follow the pattern defined in {TEMPLATE}
+> 
+> {TEMPLATE}
+> 
+> | Day     | Activity 1 - Duration           | Pomodoro sessions for activity 1 (includes breaks)       | Activity 2 - Duration        | Pomodoro sessions for activity 2 (includes breaks)                     | Activity 3 - Duration  | Pomodoro sessions for activity 3 (includes breaks) |
+> |---------|---------------------------------|-------------------------------------------------------|------------------------------|---------------------------------------------------------------|------------------------|-------------------------------------------------|
+> | Monday  | GitHub course (Microsoft) - 1h30min | 3 sessions of 25 min + 2 breaks of 5 min = 85 min      | AI course (DSA) - 1h15min | 2 sessions of 25 min + 1 break of 5 min + 1 long break of 15 min = 70 min | Reading books - 50 min | 2 sessions of 25 min + 1 break of 5 min = 55 min |
 
 ## Developing Codes
 
