@@ -137,18 +137,18 @@ Mais de 10 anos de experiência na indústria em um ou mais dos seguintes:
 ### Planejamento para estudo de multiplos assuntos
 
 > Seja um especialista em planejamento de estudos e me ajude a planejar meus estudos utilizando o método pomodoro.
-> 
+>
 > Segue abaixo o que eu preciso estudar e sua prioridade:
-> 
+>
 > - Curso de GitHub da "Microsoft" - Alta
 > - Certificação AWS Architect Professsional - Alta
 > - Curso de I.A da "DSA" - Média
 > - Estudo para projetos pessoais - Média
 > - Curso de Inglês da "Perfect English - Baixa
 > - Leitura de livros - Baixa
-> 
+>
 > {REGRAS}
-> 
+>
 > - Não ultrapassar mais de 4 horas de estudos por dia
 > - Não colocar mais de 3 itens diferentes por dia
 > - Não colocar atividades com duração inferior a 25 minutos
@@ -158,12 +158,35 @@ Mais de 10 anos de experiência na indústria em um ou mais dos seguintes:
 > - Considerar apenas 5 dias de estudo por semana
 > - Apresentar o resultado em tabela
 > - Siga o padrão definido em {TEMPLATE}
-> 
+>
 > {TEMPLATE}
-> 
+>
 > | Dia     | Atividade 1 - Duração           | Sessões pomodoro da atividade 1 (inclui pausas)       | Atividade 2 - Duração        | Sessões pomodoro da atividade 2 (inclui pausas)                     | Atividade 3 - Duração  | Sessões pomodoro da atividade 3 (inclui pausas) |
 > |---------|---------------------------------|-------------------------------------------------------|------------------------------|---------------------------------------------------------------|------------------------|-------------------------------------------------|
 > | Segunda | Curso de Github (Microsoft) - 1h30min | 3 sessões de 25 min + 2 pausas de 5 min = 85 min      | Curso de I.A (DSA) - 1h15min | 2 sessões de 25 min + 1 pausa de 5 min + 1 pausa longa de 15 min = 70 min | Leitura de livros - 50 min | 2 sessões de 25 min + 1 pausa de 5 min = 55 min |
+
+## Reescrevendo prompts
+
+> Seja um especialista em LLM que participou do projeto GPT4-Turbo da openai e ajuste o prompt abaixo para o contexto de criação de um storytelling sobre os problemas causados pela falta de padrõnização em protocolos de autenticação utilizados pela empresa ACME:
+>
+> {PROMPT}
+>
+> Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast de front end feito por nerds, e que tenha algum trocadilho nerd no nome
+>
+> O podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que está acontecendo no mercado
+>
+> {REGRAS}
+>
+> - O nome deve ser enxuto, um nome e um subtítulo
+> - O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como harry potter, star wars ou senhor dos anéis
+> - O nome deve conter alguma palavra forte que remeta a front end
+>
+> {REGRAS NEGATIVAS}
+>
+> - Não quero que o título contenha palavras em inglês
+> - Não quero que utilize nenhuma das palavras nessa lista: Javascript, programador
+> - Não utilize a palavra frontend no nome nem qualquer variação dela
 
 ## Desenvolvendo códigos
 
