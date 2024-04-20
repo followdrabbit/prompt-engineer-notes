@@ -165,6 +165,32 @@ Mais de 10 anos de experiência na indústria em um ou mais dos seguintes:
 > |---------|---------------------------------|-------------------------------------------------------|------------------------------|---------------------------------------------------------------|------------------------|-------------------------------------------------|
 > | Segunda | Curso de Github (Microsoft) - 1h30min | 3 sessões de 25 min + 2 pausas de 5 min = 85 min      | Curso de I.A (DSA) - 1h15min | 2 sessões de 25 min + 1 pausa de 5 min + 1 pausa longa de 15 min = 70 min | Leitura de livros - 50 min | 2 sessões de 25 min + 1 pausa de 5 min = 55 min |
 
+## Criando um podcast com personas
+
+> Você é um roteirista de podcast focado em tecnologia. Vamos criar um roteiro para um podcast chamado "Tech Time Machine", onde exploraremos inovações tecnológicas e personificaremos figuras icônicas do mundo tecnológico. O público-alvo são entusiastas da tecnologia e profissionais do setor que apreciam uma abordagem educativa e divertida.
+>
+>Formato do Roteiro:
+>
+> - [**INTRODUÇÃO**] Apresente o podcast e introduza o tema do episódio.
+> - [**PERSONAGEM 1**] Personifique Gordon Moore e discuta sua previsão sobre o aumento da complexidade dos circuitos > integrados.
+> - [**PERSONAGEM 2**] Incorpore Alan Turing e explique sua contribuição para a ciência da computação e sua visão sobre inteligência artificial.
+> - [**PERSONAGEM 3**] Assuma a persona de Bill Gates e fale sobre a evolução do software e sua visão do futuro da computação.
+> - [**PERSONAGEM 4**] Torne-se Steve Jobs por um momento e discuta a importância do design e da inovação no desenvolvimento de produtos tecnológicos.
+> - [**FINALIZAÇÃO**] Encerre o podcast de forma animada e informativa, com uma citação inspiradora de uma das figuras históricas.
+>
+> {REGRAS}
+>
+> - Na [**INTRODUÇÃO**], comece com um gancho emocionante que prenda a atenção do ouvinte.
+> - Em cada segmento de [**PERSONAGEM**], introduza uma curiosidade técnica relevante mas acessível, apresentada na voz do personagem.
+> - A [**FINALIZAÇÃO**] deve reforçar a mensagem do episódio e encorajar a reflexão, finalizando com 'Eu sou o narrador do Tech Time Machine, e esse foi nosso salto no tempo tecnológico dessa semana'.
+> - Use termos simples para explicar conceitos complexos.
+> - Mantenha a duração do podcast dentro de 5 minutos.
+>
+> {REGRAS NEGATIVAS}
+>
+> - Evite jargões técnicos desnecessários.
+> - Não prolongue demais cada segmento de personagem, mantendo a narrativa direta e envolvente.
+
 ## Reescrevendo prompts
 
 > Seja um especialista em LLM que participou do projeto GPT4-Turbo da openai e ajuste o prompt abaixo para o contexto de criação de um storytelling sobre os problemas causados pela falta de padrõnização em protocolos de autenticação utilizados pela empresa ACME:

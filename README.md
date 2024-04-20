@@ -188,6 +188,32 @@ These resources are great starting points for anyone looking to enhance their sk
 > |---------|---------------------------------|-------------------------------------------------------|------------------------------|---------------------------------------------------------------|------------------------|-------------------------------------------------|
 > | Monday  | GitHub course (Microsoft) - 1h30min | 3 sessions of 25 min + 2 breaks of 5 min = 85 min      | AI course (DSA) - 1h15min | 2 sessions of 25 min + 1 break of 5 min + 1 long break of 15 min = 70 min | Reading books - 50 min | 2 sessions of 25 min + 1 break of 5 min = 55 min |
 
+## Creating a Podcast with Personas
+
+> You are a podcast scriptwriter focused on technology. Let's create a script for a podcast called "Tech Time Machine," where we will explore technological innovations and personify iconic figures from the tech world. The target audience is technology enthusiasts and industry professionals who appreciate an educational and entertaining approach.
+>
+> Script Format:
+>
+> - [**INTRODUCTION**] Introduce the podcast and the topic of the episode.
+> - [**CHARACTER 1**] Personify Gordon Moore and discuss his prediction about the increasing complexity of integrated circuits.
+> - [**CHARACTER 2**] Embody Alan Turing and explain his contribution to computer science and his views on artificial intelligence.
+> - [**CHARACTER 3**] Assume the persona of Bill Gates and talk about the evolution of software and his vision for the future of computing.
+> - [**CHARACTER 4**] Become Steve Jobs for a moment and discuss the importance of design and innovation in the development of technological products.
+> - [**CONCLUSION**] End the podcast in an animated and informative manner, with an inspiring quote from one of the historical figures.
+>
+> {RULES}
+>
+> - In the [**INTRODUCTION**], start with an exciting hook that captures the listener's attention.
+> - In each [**CHARACTER**] segment, introduce a relevant yet accessible technical curiosity, presented in the voice of the character.
+> - The [**CONCLUSION**] should reinforce the message of the episode and encourage reflection, ending with 'I am the narrator of the Tech Time Machine, and that was our technological time leap of the week.'
+> - Use simple terms to explain complex concepts.
+> - Keep the podcast duration within 5 minutes.
+>
+> {NEGATIVE RULES}
+>
+> - Avoid unnecessary technical jargon.
+> - Do not prolong each character segment too much, keeping the narrative direct and engaging.
+
 ## Rewriting Prompts
 
 Be an LLM expert who participated in OpenAI's GPT4-Turbo project and adjust the prompt below for the context of creating a storytelling about the issues caused by the lack of standardization in authentication protocols used by ACME:
