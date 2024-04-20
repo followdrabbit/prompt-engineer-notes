@@ -1,0 +1,54 @@
+# Guia de Recomendações para a Criação de Prompts para ChatGPT
+
+## 1. Seja Específico
+
+**Objetivo:** Fornecer detalhes claros e específicos para evitar ambiguidade e promover respostas mais precisas.
+
+- **Exemplo Fraco:** "Me fale sobre a história da computação."
+- **Exemplo Forte:** "Descreva o desenvolvimento e impacto dos microprocessadores desde a década de 1970, focando em como eles transformaram os dispositivos pessoais e industriais."
+
+## 2. Forneça Contexto Adequado
+
+**Objetivo:** Contextualizar a questão para garantir que a resposta seja relevante e abrangente.
+
+- **Exemplo Fraco:** "Como posso melhorar a segurança do meu site?"
+- **Exemplo Forte:** "Estou desenvolvendo um e-commerce usando WordPress e WooCommerce. Quais medidas de segurança específicas devo implementar para proteger contra ataques comuns, como SQL Injection e XSS?"
+
+## 3. Estimule a Aplicação Prática do Conhecimento
+
+**Objetivo:** Encorajar a aplicação de conhecimentos teóricos em cenários práticos, aumentando a relevância da resposta.
+
+- **Exemplo Fraco:** "Explique machine learning."
+- **Exemplo Forte:** "Suponha que você é um cientista de dados em uma empresa de varejo online. Como você aplicaria algoritmos de machine learning para prever tendências de compra com base em dados históricos?"
+
+## 4. Estimule Comunicação Clara e Concisa
+
+**Objetivo:** Promover uma comunicação eficaz, solicitando explicações detalhadas que são ao mesmo tempo claras e diretas.
+
+- **Exemplo Fraco:** "Fale sobre a Lei de Ohm."
+- **Exemplo Forte:** "Explique a Lei de Ohm e como ela se aplica ao dimensionamento de resistores em um circuito simples para iniciantes, incluindo um exemplo prático com cálculos."
+
+## 5. Inclua Expectativas de Formato e Detalhe
+
+**Objetivo:** Especificar o formato desejado da resposta para alinhar com as necessidades do solicitante, seja em forma de lista, parágrafos, ou passo a passo.
+
+- **Exemplo Fraco:** "Quais são os princípios de design UX?"
+- **Exemplo Forte:** "Liste e explique cinco princípios fundamentais de design UX para aplicativos móveis, fornecendo exemplos de como cada princípio pode melhorar a experiência do usuário."
+
+## 6. Pergunte por Soluções Inovadoras ou Opiniões
+
+**Objetivo:** Encorajar o pensamento criativo e a análise crítica ao solicitar opiniões ou soluções inovadoras para problemas comuns.
+
+- **Exemplo Fraco:** "Como as empresas gerenciam projetos?"
+- **Exemplo Forte:** "Qual é a sua visão sobre o futuro da gestão de projetos nas indústrias de tecnologia, considerando as tendências emergentes como IA e trabalho remoto? Apresente possíveis inovações na área."
+
+## 7. Use Perguntas Abertas para Discussões Amplas
+
+**Objetivo:** Promover uma exploração mais profunda de tópicos complexos ou abstratos através de perguntas abertas.
+
+- **Exemplo Fraco:** "O que é democracia?"
+- **Exemplo Forte:** "Como os diferentes sistemas democráticos ao redor do mundo enfrentam os desafios da tecnologia digital e da informação? Discuta com exemplos específicos."
+
+## Conclusão
+
+Ao criar prompts para ChatGPT, considere estas recomendações para maximizar a relevância, precisão e profundidade das respostas. Esta abordagem não só enriquece a interação com a IA, mas também garante que os usuários obtenham informações valiosas e aplicáveis às suas necessidades específicas.
